@@ -44,6 +44,15 @@
       "orders": [],
       "role": "user",
       "id": 5
+    },
+    {
+      "email": "viktor.skuratov.2003@mail.ru",
+      "password": "$2a$10$BF425TZghxyrpCPu8T3siuOgt80u.QajRz5ZibnDwC/Bx.LvnE44a",
+      "login": "malyuta",
+      "tel": "+7 (929) 022-42-17",
+      "orders": [],
+      "role": "admin",
+      "id": 6
     }
   ],
   "goods": [
